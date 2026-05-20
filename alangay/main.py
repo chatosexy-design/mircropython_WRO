@@ -89,7 +89,7 @@ def scan_pattern_grid():
     print("Patrón escaneado con éxito:", pattern_grid)
     ev3.speaker.say("Patron guardado")
 
-def pickup_blocks_2x2():
+def pickup_blocks_3x3():
     """
     Paso 2: Recoge los bloques pre-ordenados de 2 en 2.
     """
