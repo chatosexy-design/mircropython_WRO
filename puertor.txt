@@ -1,0 +1,4 @@
+- Motores B y C : Tracción principal (DriveBase).
+- Motor A : Garra para sujetar los bloques.
+- Motor D : Motor pequeño para bajar la reja de alineación.
+- Sensor S1 : Sensor de color (debe mirar hacia abajo para escanear el patrón y los bloques).
